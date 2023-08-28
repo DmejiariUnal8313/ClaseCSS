@@ -1,0 +1,31 @@
+/* Clase para defiir color en rojo */
+.encabezado-en-rojo {
+    color: red;
+    font-weight: 100;
+    font-size: large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    word-spacing: 0.2em;
+    line-height: 1.5em;
+    text-shadow: 2px 2px 2px black;
+    text-decoration: line-through;
+}
+
+#headerUno{
+    background-color: black;
+    color: aliceblue;
+    padding: auto;
+    text-align: center;
+}
+
+/* Para definir estilos usando las etiquetas */
+h1{
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+}
